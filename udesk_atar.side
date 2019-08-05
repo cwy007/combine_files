@@ -3,7 +3,7 @@
     "version": "2.0",
     "name": "udesk_atar",
     "url": "http://linapp.udeskt1.com",
-    "tests": null,
+    "tests": [],
     "suites": [],
     "urls": ["http://linapp.udeskt1.com/"],
     "plugins": []
