@@ -1,0 +1,10 @@
+{
+  "id": "5bbebd60-ca40-43bd-9fe4-ecc2f8b4423c",
+  "version": "2.0",
+  "name": "udesk_atar",
+  "url": "http://linapp.udeskt1.com",
+  "tests": [{"id": "333ccc", "name": "test case 3"}],
+  "suites": [],
+  "urls": ["http://linapp.udeskt1.com/"],
+  "plugins": []
+}
