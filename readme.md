@@ -19,3 +19,7 @@ File.open("udesk_atar.side", "w") { |f| f.write udesk_atar.to_json }
 puts `cat udesk_atar.side`.split(",")
 
 ```
+
+## 问题出处
+
+合并由多个人使用 selenium ide 录制的的测试用例
