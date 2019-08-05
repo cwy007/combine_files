@@ -24,7 +24,7 @@ puts `cat udesk_atar.side`.split(",")
 
 合并由多个人使用 selenium ide 录制的的测试用例
 
-## 命令行脚步
+## 命令行脚本
 
 ```bash
 where ruby
